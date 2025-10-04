@@ -1,0 +1,14 @@
+{
+  "name": "product-crud-mongoose",
+  "version": "1.0.0",
+  "description": "Simple CRUD operations for Product database using Mongoose",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "start:local": "node server-local.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.5.0"
+  }
+}
